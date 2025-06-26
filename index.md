@@ -12,7 +12,7 @@ Welcome! I'm transitioning from education to data analytics. Having completed th
 Here's what I've been working on:
 
 ## 📊 Letterboxd Movie Analysis
-- [View full report](https://github.com/Angus-GS/Angus-GS.github.io/blob/8a3ffe5802530d267421f93de83474a0d9c54138/Data%20Analysis%20-%20Letterbox%20Movie%20Classification%20Dataset.docx)
+- [View full report](https://github.com/Angus-GS/Angus-GS.github.io/blob/5e6e5d831a6b10c38772798679190129953fa720/README.md)
 - [See visualisations](#)
 
 ## 📁 About Me
