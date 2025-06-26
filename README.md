@@ -12,7 +12,7 @@ Welcome! I'm transitioning from education to data analytics. Having completed th
 Here's what I've been working on:
 
 ## 📊 Letterboxd Movie Analysis
-- [View full report](Data Analysis - Letterbox Movie Classification Dataset.docx)
+- [View full report](letterboxd-analysis)
 - [See visualisations](#)
 
 ## 📁 About Me
