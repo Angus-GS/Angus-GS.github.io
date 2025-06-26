@@ -1,7 +1,8 @@
-# Angus's Data Portfolio
+# Angus' Data Portfolio
 
-Welcome! I'm transitioning from education to data analytics. Having completed the Google Data Analytics Professional Certificate, I have gained key analytical skills and am excited to start my first job in Data Analytics. 
+Welcome! I'm transitioning from education to data analytics. Having completed the Google Data Analytics Professional Certificate, I have gained key analytical skills and am excited to start my new carrer in Data Analytics. 
 
+## Skills
 * Querying data using SQL
 * Cleaning and organising data for analysis
 * Analysing data using R and spreadsheets
